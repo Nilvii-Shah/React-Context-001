@@ -10,7 +10,6 @@ const Contact = () => {
     return(
         <div className={isLight?'light' : 'dark'}>
         <Navbar  />
-        <h4>CONTACT US</h4>
         <h2>You can mail us at help@geekster.in</h2>
         </div>
     )
